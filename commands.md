@@ -18,3 +18,5 @@ chomod +/-rwx 文件名|目录名
 
 
 ps aux  //查看进程
+
+find [路径] -name "*.txt"
